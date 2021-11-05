@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepodemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-05T16:37:07.362679+08:00"
+    description: GIT REPO DEMO
+    digest: eba559d31cfe30ac7816419c67c6b9a045593c03d13dab214c437392198bf81b
+    name: gitrepodemo
+    type: application
+    urls:
+    - gitrepodemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-05T16:37:07.361394+08:00"
